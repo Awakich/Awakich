@@ -62,6 +62,12 @@
       </a>
       <br>github
     </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" />
+      </a>
+      <br>VSCode
+    </td>
   </tr> 
 </table>
 
