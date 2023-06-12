@@ -2,6 +2,8 @@
 
 **`Frontend Developer`**
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awakich&layout=compact&langs_count=10&theme=dark"/>
+
 <h2 align="left" id="awakich-stack">👀 Tech stack</h2>
 
 > General
