@@ -96,7 +96,14 @@
       </a>
       <br>eslint
        (настройки для vite и typescript хватает)
-    </td>
+     </td>
+    <td align="center" width="220" height="120">
+      <a href="#awakich-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/prettier-1.svg" width="36" height="36" alt="prettier" />
+      </a>
+      <br>Prettier
+       (настройки для vite и typescript хватает)
+     </td>
   </tr> 
 </table>
 
@@ -146,6 +153,20 @@
       </a>
       <br>Tailwind
     </td>
+    <tr>
+       <td align="center" width="220" height="120">
+      <a href="#awakich-stack">
+        <img src="https://www.svgrepo.com/show/353834/graphql.svg" width="36" height="36" alt="graphql" />
+      </a>
+      <br>GraphQl
+    </td>
+   <td align="center" width="220" height="120">
+      <a href="#awakich-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/apollostack.svg" width="36" height="36" alt="apollo/client" />
+      </a>
+      <br>Apollo/Client
+    </td>
+    </tr>
   </tr> 
 </table>
 
