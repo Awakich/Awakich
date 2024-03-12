@@ -135,6 +135,12 @@
       </a>
       <br>MUI
     </td>
+     <td align="center" width="110" height="90">
+      <a href="#awakich-stack">
+        <img src="https://seeklogo.com/images/S/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png?v=638421451470000000" width="36" height="36" alt="Shadcn UI" />
+      </a>
+      <br>Shadcn UI
+    </td>
     <td align="center" width="110" height="90"> 
       <a href="#awakich-stack" >
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
@@ -165,6 +171,12 @@
         <img src="https://cdn.worldvectorlogo.com/logos/apollostack.svg" width="36" height="36" alt="apollo/client" />
       </a>
       <br>Apollo/Client
+    </td>
+      <td align="center" width="220" height="120">
+      <a href="#awakich-stack">
+        <img src="https://www.convex.dev/og_image.png" width="36" height="36" alt="convex" />
+      </a>
+      <br>Convex
     </td>
     </tr>
   </tr> 
