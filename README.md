@@ -84,6 +84,14 @@
       <br>storybook
     </td>
   </tr> 
+<tr>
+        <td align="center" width="110" height="90"> 
+      <a href="#awakich-stack" >
+        <img src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png" width="36" height="36" alt="vitest" />
+      </a>
+      <br>Vitest
+    </td>
+  </tr> 
 </table>
 
 > Code quality
