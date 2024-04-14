@@ -186,6 +186,18 @@
       </a>
       <br>Convex
     </td>
+       <td align="center" width="220" height="120">
+      <a href="#awakich-stack">
+        <img src="https://www.svgrepo.com/show/353735/firebase.svg" width="36" height="36" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+       <td align="center" width="220" height="120">
+      <a href="#awakich-stack">
+        <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="36" height="36" alt="Supabase" />
+      </a>
+      <br>Supabase
+    </td>
     </tr>
   </tr> 
 </table>
