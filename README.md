@@ -131,6 +131,12 @@
       </a>
       <br>Next JS
     </td>
+      <td align="center" width="110" height="90">
+      <a href="#awakich-stack">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qAb3e9auwnxJ1RmaypTdsieWkl2wb4u3cg&s" width="36" height="36" alt="Angular" />
+      </a>
+      <br>Angular
+    </td>
  <td align="center" width="110" height="90">
       <a href="#awakich-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
