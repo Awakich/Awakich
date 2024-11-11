@@ -137,6 +137,12 @@
       </a>
       <br>Angular
     </td>
+     <td align="center" width="110" height="90">
+      <a href="#awakich-stack">
+        <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2HV84NJi6FyvtdykilJ6CEcsb5NPEmv51g&s" width="36" height="36" alt="RxJS" />
+      </a>
+      <br>RxJS
+    </td>
  <td align="center" width="110" height="90">
       <a href="#awakich-stack" >
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
